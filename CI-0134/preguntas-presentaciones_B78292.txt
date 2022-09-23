@@ -1,0 +1,9 @@
+Grupo creación de mapas
+1. ¿En cuáles o cuántos videojuegos piensan probar la creación de mapas?
+2. De todos los mapas generados, ¿en qué se van a basar para mostrarlos a los usuarios para que los prueben?
+
+Grupo juego riot games
+1. ¿Por qué eligieron el algoritmo de clustering k-means?
+
+Grupo resúmenes automáticos
+1. ¿Van a tomar en cuenta personas que tal vez no estén preparadas o no tengan el conocimiento necesario para evaluar un buen resumen?
